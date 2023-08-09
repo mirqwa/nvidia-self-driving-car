@@ -1,2 +1,2 @@
 This repo implements the end to end learning for self driving car paper by ubuntu on unity
-- Nvidia paper https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
+- The Nvidia paper https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
